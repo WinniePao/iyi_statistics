@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the iyi_Statistics feature.
+ */
+
+include_once('iyi_statistics.features.inc');
